@@ -140,5 +140,21 @@
       "price_op": 149,
       "des": "The Shire Apartment has ample parking in the back of the building. A flight of stairs brings you to the apartment door and another flight of stairs to the private foyer. The apartment has been newly renovated with all new furnishings and appliances. Every detail has been covered to make sure that you entire visit is comfortable and enjoyable."
     }
+  ],
+"users":[
+    {
+      "email":"a@mail.com",
+      "first_name":"Abhay",
+      "last_name":"Singh",
+      "password":"1234",
+      "id" : 1
+    },
+    {
+      "email":"b@mail.com",
+      "first_name":"Bachan",
+      "last_name":"Amitabh",
+      "password":"2345",
+      "id" : 2
+    }
   ]
 }
